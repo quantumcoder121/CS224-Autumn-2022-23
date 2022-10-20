@@ -1,0 +1,91 @@
+sent "Packet:1"
+retransmission timer expired
+sent "Packet:1"
+retransmission timer expired
+sent "Packet:1"
+retransmission timer expired
+sent "Packet:1"
+retransmission timer expired
+sent "Packet:1"
+retransmission timer expired
+sent "Packet:1"
+retransmission timer expired
+sent "Packet:1"
+retransmission timer expired
+sent "Packet:1"
+retransmission timer expired
+sent "Packet:1"
+retransmission timer expired
+sent "Packet:1"
+retransmission timer expired
+sent "Packet:1"
+retransmission timer expired
+sent "Packet:1"
+retransmission timer expired
+sent "Packet:1"
+retransmission timer expired
+sent "Packet:1"
+sent "Packet:2"
+retransmission timer expired
+sent "Packet:2"
+sent "Packet:3"
+retransmission timer expired
+sent "Packet:3"
+sent "Packet:4"
+retransmission timer expired
+sent "Packet:4"
+sent "Packet:5"
+retransmission timer expired
+sent "Packet:5"
+retransmission timer expired
+sent "Packet:5"
+retransmission timer expired
+sent "Packet:5"
+sent "Packet:6"
+retransmission timer expired
+sent "Packet:6"
+sent "Packet:7"
+retransmission timer expired
+sent "Packet:7"
+sent "Packet:8"
+retransmission timer expired
+sent "Packet:8"
+sent "Packet:9"
+sent "Packet:10"
+sent "Packet:11"
+sent "Packet:12"
+retransmission timer expired
+sent "Packet:12"
+sent "Packet:13"
+retransmission timer expired
+sent "Packet:13"
+sent "Packet:14"
+retransmission timer expired
+sent "Packet:14"
+retransmission timer expired
+sent "Packet:14"
+retransmission timer expired
+sent "Packet:14"
+sent "Packet:15"
+retransmission timer expired
+sent "Packet:15"
+retransmission timer expired
+sent "Packet:15"
+retransmission timer expired
+sent "Packet:15"
+retransmission timer expired
+sent "Packet:15"
+sent "Packet:16"
+retransmission timer expired
+sent "Packet:16"
+sent "Packet:17"
+sent "Packet:18"
+retransmission timer expired
+sent "Packet:18"
+sent "Packet:19"
+retransmission timer expired
+sent "Packet:19"
+sent "Packet:20"
+retransmission timer expired
+sent "Packet:20"
+sent all packets successfully
